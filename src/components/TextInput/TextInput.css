@@ -1,0 +1,9 @@
+.text-input {
+  display: flex;
+  flex-direction: column;
+}
+
+.text-input input {
+  border: 2px solid black;
+  border-radius: 3px;
+}
